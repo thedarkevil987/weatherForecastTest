@@ -1,0 +1,11 @@
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\WebApplication3.exe
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\WebApplication3.dll
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\WebApplication3.deps.json
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\WebApplication3.runtimeconfig.json
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\WebApplication3.pdb
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Pure Programming\C#\WebApplication3\WebApplication3\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
